@@ -1,0 +1,3 @@
+
+class PokeAPIError(Exception):
+    pass
