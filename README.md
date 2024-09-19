@@ -28,7 +28,7 @@ La API base es `localhost:5000/`
 
 ## Respositorio en Github
 
-git clone https://github.com/FideruEscobar/challenge_claroshop.git
+`git clone https://github.com/FideruEscobar/challenge_claroshop.git`
 
 ## Nota:
 
