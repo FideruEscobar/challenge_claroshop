@@ -7,8 +7,8 @@ Esta es una API rest creada con Flask
 
 La API debe tener las siguientes rutas:
 
-• GET /pokemons: Lista todos los Pokémon.
-• GET /pokemon/<int:id>: Obtiene detalles de un Pokémon específico por su ID.
+- GET /pokemons: Lista todos los Pokémon.
+- GET /pokemon/<int:id>: Obtiene detalles de un Pokémon específico por su ID.
 
 La API base es `localhost:5000/`
 
@@ -16,7 +16,7 @@ La API base es `localhost:5000/`
 
 - Tener instalado Python (3.12.5)
 - Tener instalado virtualenv
-
+  
 
 1. Abrir el proyecto con el IDE de su preferencia
 2. Instala el entorno virtual en el directorio del proyecto con `pip install virtualenv`
@@ -25,6 +25,10 @@ La API base es `localhost:5000/`
 `pip install -r requirements.txt`
 5. Ejecuta con  `flask run`
 6. Ejecuta las pruebas con   `pytest`
+
+## Respositorio en Github
+
+git clone https://github.com/FideruEscobar/challenge_claroshop.git
 
 ## Nota:
 
